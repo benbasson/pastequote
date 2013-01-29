@@ -1,0 +1,5 @@
+
+overlay	chrome://browser/content/browser.xul	chrome://pastequote/content/pastequoteOverlay.xul
+content	pastequote	chrome/content/
+
+locale	pastequote	en-US	chrome/locale/en-US/
