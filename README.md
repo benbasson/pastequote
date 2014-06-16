@@ -4,10 +4,7 @@ Paste Quote inserts [quote] tags around the clipboard contents and inserts them 
 
 Installation
 ------------
-Drag and drop the latest XPI file from the build folder into a Firefox window. Alternatively, you can install the extension from:
-
- - https://addons.mozilla.org/en-US/firefox/addon/paste-quote/
- - http://www.cusser.net/extensions/pastequote/
+Drag and drop the latest XPI file from the build folder into a Firefox window. Alternatively, you can install the extension from https://addons.mozilla.org/en-US/firefox/addon/paste-quote/
 
 Authors
 -------
